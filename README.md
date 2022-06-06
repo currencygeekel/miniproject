@@ -1,7 +1,7 @@
 # Flutter Car Rental App UI with darkmode support
 ### Flutter 2.8.1 Null Safety
 Beautiful Car Rental App UI with support for dark mode. 
-## Please leave a ⭐ if you like it 💙
+
 
 
 
